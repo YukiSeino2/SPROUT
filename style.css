@@ -21,6 +21,9 @@ img {
 }
 
 .card-list {
+  border: solid;
+  border: 4px solid;
+  border-color: gray;
   max-width: 300px;
   margin-bottom: 60px;
   baclground-size:contain;
