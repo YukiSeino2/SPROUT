@@ -8,6 +8,7 @@ img {
 }
 
 .content {
+  background-color:white;
   max-width: 980px;
   margin-right: auto;
   margin-left: auto;
