@@ -3,7 +3,6 @@ body {
   background-size: contain;
 }
 
-
 img {
   width: 100%;
 }
@@ -23,12 +22,7 @@ img {
 .card-list {
   max-width: 300px;
   margin-bottom: 50px;
-  /* margin-right: 40px; */
 }
-
-/* .card-list:nth-child(3n) {
-  margin-right: 0;
-} */
 
 .card-listTitle {
   font-size: 20px;
