@@ -6,6 +6,7 @@ body {
 header {
   background-image: url(https://github.com/YukiSeino2/Sprout/blob/main/4982765_l.jpg?raw=true);
   background-size: cover;
+  height:100%;
   margin-bottom:50px;
   line-height: 25.0;
 }
