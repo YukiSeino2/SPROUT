@@ -3,6 +3,11 @@ body {
   background-size: contain;
 }
 
+header{
+  background-image: url(https://github.com/YukiSeino2/Sprout/blob/main/4982765_l.jpg?raw=true);
+  background-size: contain;
+}
+
 .header-logo {
   text-align:center;
   animation: slideIn 1.6s ;
