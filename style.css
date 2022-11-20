@@ -5,6 +5,7 @@ body {
 
 img {
   width: 100%;
+  border-bottom-color:black;
 }
 
 .content {
@@ -32,10 +33,11 @@ img {
 .card-listTitle {
   color:#99ff00;
   background-color:black;
-  font-size: 20px;
+  font-size: 23px;
   font-weight: bold;
   padding: 20px 0;
   text-align: center;
+  border-top-color:black;
 }
 
 .card-listText {
