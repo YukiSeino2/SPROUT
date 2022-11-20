@@ -23,6 +23,10 @@ header{
   }
 }
 
+.site-sxplain{
+text-align:center;
+}
+
 img {
   width: 100%;
   border-bottom-color:black;
