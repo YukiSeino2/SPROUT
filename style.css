@@ -1,3 +1,7 @@
+html{
+overflow-y:scroll
+}
+
 body {
   background-image: url(https://github.com/YukiSeino2/Sprout/blob/main/vfyjf.jpg?raw=true);
   background-size: contain;
