@@ -6,14 +6,14 @@ body {
 header {
   background-image: url(https://github.com/YukiSeino2/Sprout/blob/main/%E3%83%AC%E3%83%B3%E3%82%AC.jpg?raw=true);
   width:100%;
-  height:700px;
+  height:900px;
   margin-bottom:50px;
   line-height: 1.5;
 }
 
 .header-logo {
   color:red;
-  font-size:150px;
+  font-size:200px;
   text-align:center;
   animation-name: fade;
   animation-duration: 3s;
@@ -30,6 +30,8 @@ header {
 }
 
 .site-explain{
+  font-size:100px;
+  margin-top:100px;
   color:white;
   text-align:center;
 }
