@@ -4,7 +4,7 @@ body {
 }
 
 .header-logo {
-  animation: slideIn 1.6s infinite;
+  animation: slideIn 1.6s ;
 }
 @keyframes slideIn {
   0% {
