@@ -6,12 +6,13 @@ body {
 header {
   justify-content:center;
   background-image: url(https://github.com/YukiSeino2/Sprout/blob/main/%E3%83%8D%E3%82%AA%E3%83%B3.jpg?raw=true);
-  background-size: cover;
+  width: 100vw
   margin-bottom:50px;
   line-height: 26.0;
 }
 
 .header-logo {
+  text-align:center;
   animation: SlideIn1 5.0s;
 }
 
@@ -27,6 +28,7 @@ header {
 }
 
 .site-explain{
+  text-align:center;
   animation: SlideIn2 5.0s;
 }
 
