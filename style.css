@@ -3,6 +3,20 @@ body {
   background-size: contain;
 }
 
+.header-logo {
+  animation: slideIn 1.6s infinite;
+}
+@keyframes slideIn {
+  0% {
+    opacity: 0;
+    transform: translateX(100px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
 img {
   width: 100%;
   border-bottom-color:black;
