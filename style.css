@@ -16,6 +16,7 @@ header {
 }
 
 .header-logo {
+  color:red;
   text-align:center;
  animation-name: fade;
   animation-duration: 1s;
@@ -32,6 +33,7 @@ header {
 }
 
 .site-explain{
+  color:white;
   text-align:center;
 }
 
