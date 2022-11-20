@@ -4,6 +4,7 @@ body {
 }
 
 .header-logo {
+  text-align:center;
   animation: slideIn 1.6s ;
 }
 @keyframes slideIn {
