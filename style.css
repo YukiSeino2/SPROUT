@@ -12,10 +12,10 @@ header {
 
 .header-logo {
   text-align:center;
-  animation: SlideIn 1.6s;
+  animation: SlideIn1 1.6s;
 }
 
-@keyframes SlideIn {
+@keyframes SlideIn1 {
   0% {
     opacity: 0;/*初期状態では透明に*/
     transform: translateX(100px);
@@ -28,10 +28,10 @@ header {
 
 .site-explain{
   text-align:center;
-  animation: SlideIn 1.6s;
+  animation: SlideIn2 1.6s;
 }
 
-@keyframes SlideIn {
+@keyframes SlideIn2 {
   0% {
     opacity: 0;
     transform: translateX(-100px);
