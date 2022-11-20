@@ -13,6 +13,7 @@ header {
 
 .header-logo {
   color:red;
+  font-family:Impact;
   font-size:200px;
   text-align:center;
   animation-name: fade;
@@ -31,6 +32,7 @@ header {
 
 .site-explain{
   font-size:70px;
+  font-family:Tahoma;
   margin-top:100px;
   color:white;
   text-align:center;
