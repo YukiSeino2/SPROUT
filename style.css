@@ -18,35 +18,22 @@ header {
 .header-logo {
   text-align:center;
   will-change: opacity;
-  animation: SlideIn1 5.0s;
+  animation: SlideIn1 3.0s;
 }
 
-@keyframes SlideIn1 {
+@keyframes SlideIn {
   0% {
-    opacity: 0.01;/*初期状態では透明に*/
-    transform: translateX(100px);
+    opacity: 0;
+    transform: translateY(-100px);
   }
   100% {
     opacity: 1;
-    transform: translateX(0);
+    transform: translateY(0);
   }
 }
 
 .site-explain{
   text-align:center;
-  will-change: opacity;
-  animation: SlideIn2 5.0s;
-}
-
-@keyframes SlideIn2 {
-  0% {
-    opacity: 0.01;
-    transform: translateX(-100px);
-  }
-  100% {
-    opacity: 1;
-    transform: translateX(0);
-  }
 }
 
 img {
