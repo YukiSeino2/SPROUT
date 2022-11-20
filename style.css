@@ -12,7 +12,7 @@ header {
 
 .header-logo {
   text-align:center;
-  animation: SlideIn1 1.6s;
+  animation: SlideIn1 3.0s;
 }
 
 @keyframes SlideIn1 {
@@ -28,7 +28,7 @@ header {
 
 .site-explain{
   text-align:center;
-  animation: SlideIn2 1.6s;
+  animation: SlideIn2 3.0s;
 }
 
 @keyframes SlideIn2 {
