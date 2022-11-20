@@ -22,7 +22,7 @@ header {
 
 @keyframes SlideIn1 {
   0% {
-    opacity: 0;/*初期状態では透明に*/
+    opacity: 0.01;/*初期状態では透明に*/
     transform: translateX(100px);
   }
   100% {
@@ -38,7 +38,7 @@ header {
 
 @keyframes SlideIn2 {
   0% {
-    opacity: 0;
+    opacity: 0.01;
     transform: translateX(-100px);
   }
   100% {
