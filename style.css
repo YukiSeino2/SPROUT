@@ -17,18 +17,17 @@ header {
 
 .header-logo {
   text-align:center;
-  will-change: opacity;
-  animation: SlideIn1 3.0s;
+ animation-name: fade;
+  animation-duration: 1s;
+  animation-iteration-count: 5;
 }
 
-@keyframes SlideIn {
-  0% {
+@keyframes fade{
+  0%{
     opacity: 0;
-    transform: translateY(-100px);
   }
-  100% {
+  100%{
     opacity: 1;
-    transform: translateY(0);
   }
 }
 
