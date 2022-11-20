@@ -17,6 +17,8 @@ header {
 
 .header-logo {
   color:red;
+  font-size:30px;
+  font-family:fantasy;
   text-align:center;
  animation-name: fade;
   animation-duration: 3s;
