@@ -17,8 +17,9 @@ header {
   font-size:200px;
   text-align:center;
   animation-name: fade;
-  animation-duration: 5s;
+  animation-duration:2s;
   animation-iteration-count: 1;
+  transition-delay: 3s;
 }
 
 @keyframes fade{
@@ -32,10 +33,23 @@ header {
 
 .site-explain{
   font-size:70px;
-  font-family:Tahoma;
+  font-family:serif;
   margin-top:100px;
   color:white;
   text-align:center;
+  animation-name: fade;
+  animation-duration:2s;
+  animation-iteration-count: 1;
+  transition-delay: 3s;
+}
+
+@keyframes fade{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
 }
 
 img {
